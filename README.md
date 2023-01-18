@@ -4,7 +4,7 @@ About alex-btc
 404.html
 
   "names": {
-    "AlexBit": "npub1fpayy6njzr5watq7sfzfdg8f2k990uqwxpjmla4nahs70ylnhjqqtetssa"
+    "AlexBit": "9db334a465cc3f6107ed847eec0bc6c835e76ba50625f4c1900cbcb9df808d91"
   },
   "404": { "404" 
   }
